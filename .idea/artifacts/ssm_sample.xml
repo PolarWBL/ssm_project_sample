@@ -1,0 +1,36 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="ssm_sample">
+    <output-path>$PROJECT_DIR$/out/artifacts/ssm_sample</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="ssm_project_sample/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="ssm_project_sample" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="Maven: org.springframework:spring-webmvc:5.3.17" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-aop:5.3.17" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-beans:5.3.17" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-context:5.3.17" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-core:5.3.17" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-jcl:5.3.17" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-expression:5.3.17" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-web:5.3.17" />
+          <element id="library" level="project" name="Maven: org.freemarker:freemarker:2.3.31" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-context-support:5.3.18" />
+          <element id="library" level="project" name="Maven: com.fasterxml.jackson.core:jackson-core:2.13.2" />
+          <element id="library" level="project" name="Maven: com.fasterxml.jackson.core:jackson-annotations:2.13.2" />
+          <element id="library" level="project" name="Maven: com.fasterxml.jackson.core:jackson-databind:2.13.2.2" />
+          <element id="library" level="project" name="Maven: org.mybatis:mybatis:3.5.9" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-jdbc:5.3.17" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-tx:5.3.17" />
+          <element id="library" level="project" name="Maven: org.mybatis:mybatis-spring:2.0.6" />
+          <element id="library" level="project" name="Maven: mysql:mysql-connector-java:8.0.28" />
+          <element id="library" level="project" name="Maven: com.google.protobuf:protobuf-java:3.11.4" />
+          <element id="library" level="project" name="Maven: com.alibaba:druid:1.2.8" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-test:5.3.17" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
